@@ -1,5 +1,3 @@
-pip install fuzzywuzzy
-
 import streamlit as st
 import re
 import requests
